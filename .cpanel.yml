@@ -1,0 +1,1 @@
+--- deployment: tasks: - export DEPLOYPATH=/home/tomshive/hccmechatronics.com/ - /bin/cp -R dist/. $DEPLOYPATH
